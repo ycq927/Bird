@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 弹弓皮筋宽度 -->
+    <dimen name="slingshot_width">10dp</dimen>
+
+    <!-- 游戏结束状态字体大小 -->
+    <dimen name="status_font_size">60pt</dimen>
+</resources>
